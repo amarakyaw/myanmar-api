@@ -4,37 +4,61 @@
       "id": 1,
       "title": "စကားထာ",
       "question": "နေ့ချွတ်ညဝတ်",
-      "option1": "",
-      "option2": "",
-      "option3": "",
-      "option4": ""
+      "option1": "နံနက်စာစားခြင်း",
+      "option2": "ညစာစားခြင်း",
+      "option3": "နေ့လယ်စာစားခြင်း",
+      "option4": "မစာစားခြင်း",
+      "correct_answer": "option1"
     },
     {
       "id": 2,
       "title": "စကားလိမ်",
       "question": "မန်ကျည်းပင်စာဆွဲ",
-      "option1": "",
-      "option2": "",
-      "option3": "",
-      "option4": ""
+      "option1": "ပန်းဆွဲခြင်း",
+      "option2": "စာဆွဲခြင်း",
+      "option3": "ပုံဆွဲခြင်း",
+      "option4": "စာမဆွဲခြင်း",
+      "correct_answer": "option2"
     },
     {
       "id": 3,
       "title": "စကားထာ",
       "question": "ကျွန်တော်ရဲ့အိမ်ကနေဘယ်လမ်းသွားမလဲ",
-      "option1": "",
-      "option2": "",
-      "option3": "",
-      "option4": ""
+      "option1": "ညာဘက်",
+      "option2": "ဘယ်ဘက်",
+      "option3": "တောင်ဘက်",
+      "option4": "မြောက်ဘက်",
+      "correct_answer": "option1"
     },
     {
       "id": 4,
       "title": "စကားလိမ်",
       "question": "လူတိုင်းနားလည်ရမယ့်စကား",
-      "option1": "",
-      "option2": "",
-      "option3": "",
-      "option4": ""
+      "option1": "လျှို့ဝှက်စကား",
+      "option2": "စကားပုံ",
+      "option3": "စကားလုံးအမှန်",
+      "option4": "စကားကောင်း",
+      "correct_answer": "option3"
+    },
+    {
+      "id": 5,
+      "title": "စကားထာ",
+      "question": "တောနောက်ကသစ်ပင်ကြီးရဲ့အရောင်ဘယ်လဲ",
+      "option1": "အစိမ်းရောင်",
+      "option2": "အနီရောင်",
+      "option3": "အဖြူရောင်",
+      "option4": "အဝါရောင်",
+      "correct_answer": "option1"
+    },
+    {
+      "id": 6,
+      "title": "စကားလိမ်",
+      "question": "နေရောင်ခြည်နဲ့ပတ်သက်ပြီးစကားလိမ်",
+      "option1": "နေထွက်ခြင်း",
+      "option2": "နေဝင်ခြင်း",
+      "option3": "နေကောင်းခြင်း",
+      "option4": "နေညံ့ခြင်း",
+      "correct_answer": "option2"
     }
   ]
 }
