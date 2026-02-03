@@ -1,0 +1,40 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "title": "စကားထာ",
+      "question": "နေ့ချွတ်ညဝတ်",
+      "option1": "",
+      "option2": "",
+      "option3": "",
+      "option4": ""
+    },
+    {
+      "id": 2,
+      "title": "စကားလိမ်",
+      "question": "မန်ကျည်းပင်စာဆွဲ",
+      "option1": "",
+      "option2": "",
+      "option3": "",
+      "option4": ""
+    },
+    {
+      "id": 3,
+      "title": "စကားထာ",
+      "question": "ကျွန်တော်ရဲ့အိမ်ကနေဘယ်လမ်းသွားမလဲ",
+      "option1": "",
+      "option2": "",
+      "option3": "",
+      "option4": ""
+    },
+    {
+      "id": 4,
+      "title": "စကားလိမ်",
+      "question": "လူတိုင်းနားလည်ရမယ့်စကား",
+      "option1": "",
+      "option2": "",
+      "option3": "",
+      "option4": ""
+    }
+  ]
+}
