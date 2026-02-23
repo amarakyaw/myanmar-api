@@ -523,8 +523,8 @@
       "type":"hard",
       "question": "ခုတ်လို့မပြတ် သတ်လို့မသေ။",
       "option1": "လူ",
-      "option2": "ခွေး",
-      "option3": "ရေ",
+      "option2": "ရေ",
+      "option3": "ခွေး",
       "option4": "ပစ္စည်း",
       "correct_answer": "option2"
     },
