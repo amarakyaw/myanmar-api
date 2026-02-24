@@ -663,6 +663,7 @@
      {
       "id": 61,
       "title": "စကားပုံ",
+       "type":"easy",
       "question": "လင်ကိုဘုရား (----------)။",
       "option1": "မယားကိုစေတီ",
       "option2": "အဖကိုစေတီ",
@@ -684,7 +685,7 @@
      {
       "id": 63,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "ထောင်တန်တဲ့စကား ၊ (----------)။",
       "option1": "ရယ်ပေါ့",
       "option2": "မပြောရ",
@@ -695,7 +696,7 @@
      {
       "id": 64,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "လှေပြေးတုန်း ၊ (----------)။",
       "option1": "ဝမ်းပေါက်",
       "option2": "တက်ကျိုး",
@@ -706,7 +707,7 @@
      {
       "id": 65,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "သိကြားမင်း ကျွဲယောင်ဆောင် ၊ (----------)။",
       "option1": "ဗိုက်ကား",
       "option2": "အမြီးကား",
@@ -717,7 +718,7 @@
      {
       "id": 66,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "ဆွမ်းခံရင်း ၊ (----------)။",
       "option1": "ဌက်သင့်",
       "option2": "နေမြင့်",
@@ -728,7 +729,7 @@
      {
       "id": 67,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "သူခိုးက ၊ (----------)။",
       "option1": "အိမ်ကောင်းရွေး",
       "option2": "နွားကောင်းရွေး",
@@ -739,7 +740,7 @@
      {
       "id": 68,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "ကျောပူမှ ၊ (----------)။",
       "option1": "ခေါင်းအေး",
       "option2": "နှလုံးအေး",
@@ -750,7 +751,7 @@
      {
       "id": 69,
       "title": "စကားပုံ",
-       "type":"easy",
+       "type":"medium",
       "question": "ကြောက်ပါတယ်ဆို ၊ (----------)။",
       "option1": "ကြောင်နှင့်တို့",
       "option2": "ကြွက်နှင့်တို့",
@@ -902,93 +903,444 @@
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 83,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+       "type":"easy",
+      "question": "ကျားကြောက်လိူ့ ရှင်ကြီးကိုး ၊ ရှင်ကြီး (----------)။",
+      "option1": "ခွေးထက်ဆိုး",
+      "option2": "ကျားထက်ဆိုး",
+      "option3": "နွားထက်ဆိုး",
+      "option4": "လူထက်ဆိုး",
+      "correct_answer": "option2"
+    },
+    {
+      "id": 84,
+      "title": "စကားပုံ",
+       "type":"easy",
+      "question": "ရလေ လိုလေ ၊ အို(----------)။",
+      "option1": "တစ္ဆေ",
+      "option2": "မောင်နှမ",
+      "option3": "ချစ်သူ",
+      "option4": "မောင်နှမ",
+      "correct_answer": "option1"
+    },
+    {
+      "id": 85,
+      "title": "စကားပုံ",
+       "type":"easy",
+      "question": "ငါးကြင်းဆီနဲ့ ၊ငါးကြင်း (----------)။",
+      "option1": "ချက်",
+      "option2": "ပြုတ်",
+      "option3": "ကြော်",
+      "option4": "နွှေး",
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 86,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+       "type":"easy",
+      "question": "ပျက်အစဉ် ၊၊ (----------)။",
+      "option1": "ပြင် အမြဲ",
+      "option2": "ပြင် မဆုံး",
+      "option3": "ပြင် မတတ်",
+      "option4": "ပြင် ခဏ",
+      "correct_answer": "option4"
+    },
+    {
+      "id": 87,
+      "title": "စကားပုံ",
+       "type":"easy",
+      "question": "လသာတုန်း၊ (----------)။",
+      "option1": "ကြက်ခိုး",
+      "option2": "ကြိုးချည်",
+      "option3": "ဗိုင်းငင်",
+      "option4": "ခြင်းကန်",
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 88,
+      "title": "စကားပုံ",
+       "type":"easy",
+      "question": "အကျည်းတန် ၊ (----------)။",
+      "option1": "မှန်ကြိုက်",
+      "option2": "ရုပ်ဆိုး",
+      "option3": "မလှ",
+      "option4": "မှန်မကြိုက်",
+      "correct_answer": "option1"
+    },
+    {
+      "id": 89,
+      "title": "စကားပုံ",
+       "type":"easy",
+      "question": "ကိုယ့်ပေါင်ကိုယ် ၊(----------)။",
+      "option1": "လှန်ထောင်း",
+      "option2": "ရိုက်",
+      "option3": "လှန်ပြ",
+      "option4": "နင်း",
+      "correct_answer": "option1"
+    },
+    {
+      "id": 90,
       "title": "စကားပုံ",
        "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+      "question": "ကွေးလွန်းတဲ့လေး ၊(----------)။",
+      "option1": "သုံးမရတယ်",
+      "option2": "ပစ်ရတယ်",
+      "option3": "ကျိုးတတ်တယ်",
+      "option4": "ချိုးပစ်တယ်",
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 91,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+       "type":"hard",
+      "question": "ကရိုး မက ၊ ဆန်း၍က (----------)။",
+      "option1": "မကတတ်ရ",
+      "option2": "ခက်ခဲရ",
+      "option3": "နှပ်ပစ်ခံရ",
+      "option4": "စိတ်ညစ်ရ",
+      "correct_answer": "option3"
+    },
+
+    {
+      "id": 92,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ကွေးလွန်းတဲ့လေး ၊(----------)။",
+      "option1": "သုံးမရတယ်",
+      "option2": "ပစ်ရတယ်",
+      "option3": "ကျိုးတတ်တယ်",
+      "option4": "ချိုးပစ်တယ်",
+      "correct_answer": "option2"
+    },
+
+    {
+      "id": 93,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ကျော်တော့ လှေသူကြီး  (----------)တော့ လှေထိုးသား။",
+      "option1": "ညား",
+      "option2": "ချစ်",
+      "option3": "ကြိုက်",
+      "option4": "ခင်",
+      "correct_answer": "option1"
+    },
+
+    {
+      "id": 94,
+      "title": "စကားပုံ",
+      "type":"hard",
+      "question": "ကွမ်းသီးကြိုက် ၊(----------)။",
+      "option1": "ရခိုင်ပို့",
+      "option2": "ပုဂံပို့",
+      "option3": "ညောင်ဉီးပို့",
+      "option4": "တောင်ငူပို့",
+      "correct_answer": "option4"
+    },
+
+    {
+      "id": 95,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ကလေးကျမှ လှေကားထောင် ၊ ရန်သူပြန်မှ(----------)။",
+      "option1": "ဒူးလေးပြင်",
+      "option2": "သေနတ်ပြင်",
+      "option3": "ဓားပြင်",
+      "option4": "ပုဆိန်ပြင်",
+      "correct_answer": "option1"
+    },
+
+    {
+      "id": 96,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ယာလည်းညက် ၊(----------)။",
+      "option1": "စက်လဲပန်း",
+      "option2": "လူလဲပန်း",
+      "option3": "ကြက်လည်းပန်း",
+      "option4": "နွားလဲပန်း",
+      "correct_answer": "option3"
+    },
+
+    {
+      "id": 97,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ရေမနောက် ၊(----------)။",
+      "option1": "ကြာမပေါက်",
+      "option2": "ကြာမရှောက်",
+      "option3": "ကြာမပွင့်",
+      "option4": "ကြာမရှိ",
+      "correct_answer": "option2"
+    },
+
+    {
+      "id": 98,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "တံခွန်မလွှား ၊(----------)။",
+      "option1": "အစဉ်မသင့်",
+      "option2": "ရထားမတင့်",
+      "option3": "လူမသင့်",
+      "option4": "လှည်းမတင့်",
+      "correct_answer": "option2"
+    },
+    {
+      "id": 99,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ခရီးတွင်လို့ ၊(----------)။",
+      "option1": "ရွာမသိ",
+      "option2": "ရွာပျောက်",
+      "option3": "ရွာမတွေ့",
+      "option4": "ရွာစဉ်မသိ",
+      "correct_answer": "option4"
+    },
+
+    {
+      "id": 100,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ငွေတစ်ပဲနှင့်၊(----------)။",
+      "option1": "ကြက်ဝယ်ကိုင်",
+      "option2": "နွားဝယ်ကိုင်",
+      "option3": "ငါးကြင်ခေါင်းကိုင်",
+      "option4": "သုံးမနိုင်",
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 101,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+       "type":"hard",
+      "question": "နှုတ်ကြီးလျှင်စွာ ၊(----------)။",
+      "option1": "လူကြီးရင်ကာ",
+      "option2": "စိတ်ကြီးရင်မာ",
+      "option3": "လက်ကြီးလျှင်သာ",
+      "option4": "ကိုယ်ကြီးရင်နာ",
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 102,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+       "type":"hard",
+      "question": "ပိုးသာကုန် ၊ (----------)။",
+      "option1": "ပိုးထည်ရောင်းမထွက်",
+      "option2": "ကုန်စည်ရောင်းမထွက်",
+      "option3": "မောင်ပုံစောင်းမတတ်",
+      "option4": "ချည်မျှင်မထွက်",
+      "correct_answer": "option3"
+    },
+
+    {
+      "id": 103,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "မြွေမှန်လျှင် ၊(----------)။",
+      "option1": "လူမြင်ပေါက်",
+      "option2": "တွင်းဝင်ဖြောင့်",
+      "option3": "ဖြောင့်ဖြောင့်သွား",
+      "option4": "အဆိပ်ပြင်း",
+      "correct_answer": "option2"
+    },
+
+    {
+      "id": 104,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ဗျိုင်းထက်ပုစွန် (----------)။",
+      "option1": "ပညာလွန်",
+      "option2": "အပြေးလွန်",
+      "option3": "အလျှင်လွန်",
+      "option4": "အစားလွန်",
+      "correct_answer": "option1"
+    },
+
+    {
+      "id": 105,
+      "title": "စကားပုံ",
+      "type":"hard",
+      "question": "လေမလာ ကြာတိုင်းကောင်း၊(----------)။",
+      "option1": "လှေသူကြီးက လှေသားထောင်း",
+      "option2": "လှေသူကြီးက လှေသားပြောင်း",
+      "option3": "လှေသူကြီးက လှေကိုမောင်း",
+      "option4": "လှေသူကြီးကို လှေသားထောင်း",
+      "correct_answer": "option4"
+    },
+
+    {
+      "id": 106,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "သိတိုင်းလဲ မဟနဲ့ ၊(----------)။",
+      "option1": "ရှိတိုင်းလည်းမပြနှင့်",
+      "option2": "မြင်တိုင်းလည်းမပြောနှင့်",
+      "option3": "ရှိတိုင်းလည်းမကြွယ်နှင့်",
+      "option4": "မြင်တိုင်းလည်းမမေးနှင့်",
+      "correct_answer": "option1"
+    },
+
+    {
+      "id": 107,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ကိုယ်တင်သည့်စစ်ကဲ၊(----------)။",
+      "option1": "ကိုယ်တင်မရ",
+      "option2": "ပယ်ချ၍မရ",
+      "option3": "ကိုယ်ချ၍မရ",
+      "option4": "ကိုယ်ပြောဆိုမရ",
+      "correct_answer": "option3"
+    },
+
+    {
+      "id": 108,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ဆေးသမားမထောင်းသာ ၊(----------)။",
+      "option1": "လူနာသက်သာ",
+      "option2": "လူနာမခံချိ",
+      "option3": "လူနာမသက်သာ",
+      "option4": "လူနာမဆိုး",
+      "correct_answer": "option2"
+    },
+
+    {
+      "id": 109,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ဆင်လိုက်ရာ ၊(----------)။",
+      "option1": "ဝါမရွေး",
+      "option2": "ဝါကြီး ဝါငယ်ရွေး",
+      "option3": "လူမရွေး",
+      "option4": "လူမလွတ်",
+      "correct_answer": "option2"
+    },
+    {
+      "id": 110,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ဆင်သတ် ၊(----------)။",
+      "option1": "ဆင်မသေ",
+      "option2": "လူသေ",
+      "option3": "တုတ်ကျိုး",
+      "option4": "အရပ်ဝေ",
+      "correct_answer": "option4"
+    },
+     {
+      "id": 111,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ထောပတ်ကောင်း ၊(----------)။",
+      "option1": "ခွက်နှင့်ခံ",
+      "option2": "ဓားမနှင့်ခုတ်",
+      "option3": "စလောင်းနှင့်တည်",
+      "option4": "ဇကောဖြင့်ခံ",
       "correct_answer": "option3"
     },
     {
-      "id": 71,
+      "id": 112,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
-      "correct_answer": "option3"
+       "type":"hard",
+      "question": "ထမင်းကြမ်းက ၊(----------)။",
+      "option1": "အသိုးလွယ်ချည်",
+      "option2": "အနံထွက်ချင်",
+      "option3": "အစားခက်ချည်",
+      "option4": "အငွေ့ထွက်ချင်",
+      "correct_answer": "option4"
     },
     {
-      "id": 71,
+      "id": 113,
       "title": "စကားပုံ",
-       "type":"medium",
-      "question": "မရဲဘဲနှင့် ၊ ၊ (----------)။",
-      "option1": "ကျွဲမဲစီး",
-      "option2": "ကျွဲကြီးစီး",
-      "option3": "ကျွဲပြဲစီး",
-      "option4": "ကျွဲမစီး",
+       "type":"hard",
+      "question": "တစ်ခြုံကွယ် ၊ (----------)။",
+      "option1": "တစ်ယောက်နှင့်",
+      "option2": "တစ်ယောက်တွေ့",
+      "option3": "တစ်မယ်မေ့",
+      "option4": "တစ်မယ်တွေ့",
       "correct_answer": "option3"
     },
-    
+
+    {
+      "id": 114,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "တီးတိုးတီးတိုး ၊(----------)။",
+      "option1": "လူဂျပိုး",
+      "option2": "သဖန်းဖိုး",
+      "option3": "ဖြောင့်ဖြောင့်သွား",
+      "option4": "မီးကောင်းပိုး",
+      "correct_answer": "option2"
+    },
+
+    {
+      "id": 115,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "နတ်ကရာ ၊ (----------)။",
+      "option1": "ကျီးမော့",
+      "option2": "ကျီးဆွဲ",
+      "option3": "ကျီးပျံ",
+      "option4": "ကျီးအာ",
+      "correct_answer": "option1"
+    },
+
+    {
+      "id": 116,
+      "title": "စကားပုံ",
+      "type":"hard",
+      "question": "မကတတ်သော် ၊(----------)။",
+      "option1": "လူကိုအပြစ်တင်",
+      "option2": "စင်ကိုအပြစ်တင်",
+      "option3": "ဆရာကိုအပြစ်တင်",
+      "option4": "ဖျာကိုအပြစ်တင်",
+      "correct_answer": "option4"
+    },
+
+    {
+      "id": 117,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "လှေအဆင်း ၊(----------)။",
+      "option1": "ကုန်းအတက်",
+      "option2": "ကုန်းအပြန်",
+      "option3": "ကုန်းအဆင်း",
+      "option4": "ကုန်းမြင့်တက်",
+      "correct_answer": "option1"
+    },
+
+    {
+      "id": 118,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ဆန်ပေးမှ၊(----------)။",
+      "option1": "ချက်ရ",
+      "option2": "ပြာရ",
+      "option3": "ဆေးရ",
+      "option4": "စပါးရ",
+      "correct_answer": "option3"
+    },
+
+    {
+      "id": 119,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ပတ္တမြားဆန်ကျိုး ၊(----------)။",
+      "option1": "အဖိုးမတန်",
+      "option2": "အဖိုးပြည်တန်",
+      "option3": "အရောင်းမထိုက်",
+      "option4": "အဖိုးအနဂ္ဂ",
+      "correct_answer": "option2"
+    },
+
+    {
+      "id": 120,
+      "title": "စကားပုံ",
+       "type":"hard",
+      "question": "ဂါထာပေး ၊(----------)။",
+      "option1": "သီချင်းဖြစ်",
+      "option2": "တေးဖြစ်",
+      "option3": "ကဗျာဖြစ်",
+      "option4": "အဖိုးမရ",
+      "correct_answer": "option2"
+    }
   ]
 }
